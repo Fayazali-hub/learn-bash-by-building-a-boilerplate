@@ -222,3 +222,8 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+cp -rpf website-boilerplate toms-website
+ls --color=auto
+rm -r toms-website/
+ls --color=auto
+cp -r website-boilerplate toms-website
