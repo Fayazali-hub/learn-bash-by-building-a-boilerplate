@@ -76,3 +76,4 @@ cd -
 cls
 ls --color=auto
 more index.js
+cd ..
