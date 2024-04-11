@@ -137,3 +137,4 @@ mv lato.woff lato.font
 mv lato.font lato.tff
 mv lato.tff lato.font
 mv lato.font lato.ttf
+mv menlo.font menlo.otf
