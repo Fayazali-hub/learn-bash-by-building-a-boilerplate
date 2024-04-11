@@ -171,3 +171,5 @@ cd ../../..
 cd images/
 ls --color=auto
 mv header.png ..
+ld
+ls --color=auto
