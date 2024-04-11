@@ -209,3 +209,4 @@ touch README.md
 rm README.nd
 ls --color=auto
 echo Yay!
+echo I finished the boilerplate!
