@@ -208,3 +208,4 @@ touch README.nd
 touch README.md
 rm README.nd
 ls --color=auto
+echo Yay!
