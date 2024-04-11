@@ -71,3 +71,7 @@ clear
 ls --color=auto
 cd src/
 pwd
+cd /
+cd -
+cls
+ls --color=auto
