@@ -156,3 +156,4 @@ find
 rm FreeCodeCamp.svg
 find
 find client/
+find --help
